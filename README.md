@@ -23,7 +23,7 @@
 
 ## 参考与致谢
 
->此项目在设计中参考了:
+>此项目在设计中参考了
 https://grabcad.com/library/spider-robot-v2-0-mg995-servo-quadruped-on-stm32f103-1
 感谢这帮俄国佬<br>
 另外，立创EDA永远的神，我认为大家都应该试一试.jpg
