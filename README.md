@@ -15,10 +15,12 @@
 
  * 舵机控制板的图形化编程上位机以及可能使用到的串口驱动
 <h2>简单预览</h2>
+
 ![cmd-markdown-logo](doc/1.png)<br>
 ![cmd-markdown-logo](doc/3.png)<br>
 ![cmd-markdown-logo](doc/4.png)![cmd-markdown-logo](doc/5.png)<br>
 ![cmd-markdown-logo](doc/6.png)![cmd-markdown-logo](doc/7.png)<br>
+
 <h2>参考与致谢</h2>
 
 >此项目在设计中参考了:
