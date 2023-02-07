@@ -1,6 +1,6 @@
 # 基于树莓派的六足机器人方案设计
 ## 工程内容说明
-* 完整工程在 https://github.com/JLU-Automation-Team/spider-robot， 增加了遥控器的micropython代码和运控相关知识概述
+* 完整工程在 https://github.com/JLU-Automation-Team/spider-robot ，增加了遥控器的micropython代码和运控相关知识概述
 ### hardware为项目相关硬件设计
 
  * 机械结构为六足机器人的3d建模工程，包括本体和云台<br>
